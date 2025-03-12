@@ -1,6 +1,7 @@
 - 👋 Hi, I’m @EssienJoy
 - 👀 I’m interested in web development
-- 🌱 I’m currently learning scss 
+- 🌱 I’m currently learning JavaScript
+- Aquired skill in HTML HTML5 CSS SCSS GIT AND GITHUB
 - 💞️ I’m looking to collaborate on web development projects
 - 📫 How to reach me essienjoyidaratechie@gmail.com
 
