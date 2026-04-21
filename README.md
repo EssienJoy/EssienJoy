@@ -1,20 +1,16 @@
 ESSIEN JOY
 
-Junior Full-Stack Web Developer
+FRONTEND DEVELOPER
 
 📍 Nigeria
 📧 essienjoyidaratechie@gmail.com
 
 🌐 Portfolio: https://joyessienportfolio.vercel.app
 
-💻 GitHub: https://github.com/yourusername
- (replace if needed)
-💼 LinkedIn: https://linkedin.com/in/yourusername
- (replace if needed)
 
 PROFESSIONAL SUMMARY
 
-Junior Full-Stack Web Developer with hands-on experience building responsive, user-focused web applications using modern frontend and backend technologies. Skilled in React, Next.js, Node.js, NestJS, and MongoDB, with a strong foundation in clean UI design, component-based architecture, and RESTful APIs. Passionate about continuous learning, performance optimization, and building scalable digital products.
+Frontend Developer with hands-on experience building responsive, user-focused web applications using modern frontend and backend technologies. Skilled in React, Next.js, Node.js, NestJS, and MongoDB, with a strong foundation in clean UI design, component-based architecture, and RESTful APIs. Passionate about continuous learning, performance optimization, and building scalable digital products.
 
 TECHNICAL SKILLS
 Frontend
