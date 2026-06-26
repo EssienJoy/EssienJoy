@@ -1,6 +1,6 @@
-ESSIEN JOY
+# ESSIEN JOY IDARA
 
-FRONTEND DEVELOPER
+# FRONTEND DEVELOPER
 
 📍 Nigeria
 📧 essienjoyidaratechie@gmail.com
@@ -8,12 +8,14 @@ FRONTEND DEVELOPER
 🌐 Portfolio: https://joyessienportfolio.vercel.app
 
 
-PROFESSIONAL SUMMARY
+# PROFESSIONAL SUMMARY
 
-Frontend Developer with hands-on experience building responsive, user-focused web applications using modern frontend and backend technologies. Skilled in React, Next.js, Node.js, NestJS, and MongoDB, with a strong foundation in clean UI design, component-based architecture, and RESTful APIs. Passionate about continuous learning, performance optimization, and building scalable digital products.
+I am a Frontend Developer,focused on building responsive frontend web applications by combining desingn and user expereince. My primary tools are HTML, CSS, JavaScript, React, Next.js, and Tailwind CSS. I enjoy turning ideas into interactive interfaces while continuously improving my understanding of modern frontend development and web performance.I'm currently expanding my skills by building real-world projects and exploring backend technologies to become a well-rounded full-stack developer.I'm open to remote internship and junior frontend opportunities where I can contribute, learn from experienced engineers, and continue growing.Outside of coding, I enjoy creating and editing, youtube videos.
 
-TECHNICAL SKILLS
-Frontend
+
+# TECHNICAL SKILLS
+
+# Frontend
 
 HTML5, CSS3, SCSS
 
@@ -27,7 +29,7 @@ Next.js
 
 GSAP, Three.js
 
-Backend
+# Backend
 
 Node.js
 
@@ -43,7 +45,7 @@ Mongoose
 
 Supabase
 
-Tools & Workflow
+# Tools & Workflow
 
 Git, GitHub
 
@@ -55,7 +57,7 @@ Component-Based Architecture
 
 MVC & Modular Code Structure
 
-PROJECTS
+# PROJECTS
 Planner Web Application
 
 Tech Stack: HTML, CSS, JavaScript
